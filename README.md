@@ -28,7 +28,4 @@ npm run dev
 ```
 
 ### Test output
-```
-![alt text](image.png)
-```
 ![Screenshot](image.png)
